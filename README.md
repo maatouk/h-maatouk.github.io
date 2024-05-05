@@ -12,5 +12,5 @@ H. Maatouk (2015). Correspondance entre Régression par Processus Gaussien et Sp
 # Articles soumis
 1. H. **Maatouk**, D. **Rulli\`ere** and X. **Bay** (2024). Efficient constrained Gaussian process approximation using elliptical slice sampling.
 Submitted to _Journal of Computational and Graphical Statistics_, [preprint](https://hal.science/hal-04496474)
-2. \underline{H. \bsc{Maatouk}}, D. \bsc{Rulli\`ere} and X. \bsc{Bay} (2023). Large-scale constrained Gaussian processes for shape-restricted function estimation. Under review in \textcolor{gray}{Statistics and Computing}, \url{https://hal.science/hal-04348962}
-\end{enumerate}
+2. H. **Maatouk**, D. **Rulli\`ere** and X. **Bay** (2023). Large-scale constrained Gaussian processes for shape-restricted function estimation. Under review in _Statistics and Computing_, [preprint](https://hal.science/hal-04348962)
+
