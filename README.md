@@ -1,3 +1,7 @@
+# Hassan MAATOUK 
+PhD in applied mathematics (Statistics)
+I am deeply involved in studying non-parametric function estimation using advanced machine learning and Bayesian techniques
+
 # Publications
 
 All my articles are available on the following address :
