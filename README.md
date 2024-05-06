@@ -16,8 +16,8 @@ Submitted to _Journal of Computational and Graphical Statistics_, [preprint](htt
 3. ZnO nanoparticles size effect on their antibacterial activity against Gram- positive and Gram-negative bacteria, Collaboration with R. Azouani (EBI, Cergy) and I. El-Habib (LSPM, CNRS), Submitted
 
 # Published journal articles 
-1. H. **Maatouk**, D. **Rullière** and X. **Bay**. Bayesian analysis of constrained Gaussian processes, Accepted in Bayesian Analysis.
-2. L. **Grammont**, H. **Maatouk** and X. **Bay**. Equivalence between constrained optimal smoothing and Bayesian estimation, accepted in Journal of Nonparametric Statistics without undergoing any revision stage.
+1. H. **Maatouk**, D. **Rullière** and X. **Bay**. Bayesian analysis of constrained Gaussian processes, Accepted in _Bayesian Analysis_
+2. L. **Grammont**, H. **Maatouk** and X. **Bay**. Equivalence between constrained optimal smoothing and Bayesian estimation, accepted in _Journal of Nonparametric Statistics_ without undergoing any revision stage.
 3. H. **Maatouk**, D. **Rullière** and X. **Bay**. Sampling large hyperplane-truncated multivariate normal distributions, _Computational Statistics_,
    [doi](https://doi.org/10.1007/s00180-023-01416-7)
 4. H. **Maatouk**, X. **Bay** and D. **Rullière**. A note on simulating hyperplane- truncated multivariate normal distributions, Accepted with minor revision, _Statistics and Probability Letters_, [pdf](https://www.sciencedirect.com/science/article/abs/pii/S0167715222001730)
