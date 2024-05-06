@@ -10,7 +10,7 @@ All my articles are available on the following address :
 
 
 
-# Thesis
+# color: blue; /* Thesis */
 H. Maatouk (2015). Correspondance entre Régression par Processus Gaussien et Spline d'Interpolation sous Contraintes Linéaires de Type Inégalité. Théorie et Applications. Ph.D thesis, École des Mines de St-Étienne
 
 # Submitted articles
