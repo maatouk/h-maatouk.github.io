@@ -6,7 +6,7 @@ I am deeply involved in studying non-parametric function estimation using advanc
 
 All my articles are available on the following address :
 
-https://scholar.google.com/citations?user=rI7pyW0AAAAJ&hl=fr&oi=ao
+[Hassan Maatouk Goggle scholar](https://scholar.google.com/citations?user=rI7pyW0AAAAJ&hl=fr&oi=ao)
 
 
 
