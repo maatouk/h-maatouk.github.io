@@ -11,7 +11,7 @@ https://scholar.google.com/citations?user=rI7pyW0AAAAJ&hl=fr&oi=ao
 
 
 # Thesis
-H. Maatouk (2015). Correspondance entre Régression par Processus Gaussien et Spline d'Interpolation sous Contraintes Linéaires de Type Inégalité. Théorie et Applications. Ph.D thesis, École des Mines de St-\'Etienne
+H. Maatouk (2015). Correspondance entre Régression par Processus Gaussien et Spline d'Interpolation sous Contraintes Linéaires de Type Inégalité. Théorie et Applications. Ph.D thesis, École des Mines de St-Étienne
 
 # Submitted articles
 1. H. **Maatouk**, D. **Rullière** and X. **Bay** (2024). Efficient constrained Gaussian process approximation using elliptical slice sampling.
