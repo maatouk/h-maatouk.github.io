@@ -39,5 +39,9 @@ Vol. 68, Number 1, pp. 95-120
 # Proceeding
 2. F. **Bachoc**, E. **Contal**, H. **Maatouk** and D. **Rullière** (2018). Gaussian processes for computer experiments, _ESAIM : Proceedings and surveys_ Vol. 60, 163-179.
 1. H. **Maatouk**, O. **Roustant** and Y. **Richet** (2015). Cross-validation estimation of covariance hyper-parameters of Gaussian processes with inequality constraints, _Procedia Environmental Sciences_, 27 :38 - 44. Spatial Statistics conference 2015
+ 
+# Works in progress 
+Sampling high-dimensional truncated MVN distribution under nonlinear inequalities, Collaboration with D. **Rullière** (CNRS) and X. **Bay** (EMSE)
+    
 
 
