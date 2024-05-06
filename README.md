@@ -18,5 +18,5 @@ Submitted to _Journal of Computational and Graphical Statistics_, [preprint](htt
 # Published journal articles 
 1. H. **Maatouk**, D. **Rullière** and X. **Bay**. Bayesian analysis of constrained Gaussian processes, Accepted in Bayesian Analysis.
 2. L. **Grammont**, H. **Maatouk** and X. **Bay**. Equivalence between constrained optimal smoothing and Bayesian estimation, accepted in Journal of Nonparametric Statistics without undergoing any revision stage.
-
+3. H. **Maatouk**, D. **Rullière** and X. **Bay**. Sampling large hyperplane-truncated multivariate normal distributions, _Computational Statistics_, [doi](https://doi.org/ 10.1007/s00180-023-01416-7)
 
