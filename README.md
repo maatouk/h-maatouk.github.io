@@ -33,7 +33,7 @@ L. **Grammont**, H. **Maatouk** and X. **Bay** (2024). Equivalence between const
 H. **Maatouk**, D. **Rullière** and X. **Bay** (2023). Sampling large hyperplane-truncated multivariate normal distributions, _Computational Statistics_,
    [doi](https://doi.org/10.1007/s00180-023-01416-7)
 
-H. **Maatouk**, X. **Bay** and D. **Rullière** (2022). A note on simulating hyperplane- truncated multivariate normal distributions, Accepted with minor revision, _Statistics and Probability Letters_, [pdf](https://www.sciencedirect.com/science/article/abs/pii/S0167715222001730)
+H. **Maatouk**, X. **Bay** and D. **Rullière** (2022). A note on simulating hyperplane-truncated multivariate normal distributions, Accepted with minor revision, _Statistics and Probability Letters_, [pdf](https://www.sciencedirect.com/science/article/abs/pii/S0167715222001730)
 
 H. **Maatouk** (2021). Finite-dimensional approximation of Gaussian processes with inequality constraints and noisy observations, _Communications in Statistics - Theory and Methods_, [pdf](https://www.tandfonline.com/doi/abs/10.1080/03610926.2022.2055768)
 
