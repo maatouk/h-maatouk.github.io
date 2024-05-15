@@ -18,15 +18,20 @@ H. Maatouk (2015). Correspondance entre Régression par Processus Gaussien et Sp
 # Submitted articles
 H. **Maatouk**, D. **Rullière** and X. **Bay** (2024). Efficient constrained Gaussian process approximation using elliptical slice sampling.
 Submitted to _Journal of Computational and Graphical Statistics_, [preprint](https://hal.science/hal-04496474)
+
 H. **Maatouk**, D. **Rulli\`ere** and X. **Bay** (2023). Large-scale constrained Gaussian processes for shape-restricted function estimation. Under review in _Statistics and Computing_, [preprint](https://hal.science/hal-04348962)
 ZnO nanoparticles size effect on their antibacterial activity against Gram- positive and Gram-negative bacteria, Collaboration with R. Azouani (EBI, Cergy) and I. El-Habib (LSPM, CNRS), Submitted
 
 # Published journal articles 
 H. **Maatouk**, D. **Rullière** and X. **Bay** (2024). Bayesian analysis of constrained Gaussian processes, Accepted in _Bayesian Analysis_
+
 L. **Grammont**, H. **Maatouk** and X. **Bay** (2024). Equivalence between constrained optimal smoothing and Bayesian estimation, accepted in _Journal of Nonparametric Statistics_ without undergoing any revision stage.
+
 H. **Maatouk**, D. **Rullière** and X. **Bay** (2023). Sampling large hyperplane-truncated multivariate normal distributions, _Computational Statistics_,
    [doi](https://doi.org/10.1007/s00180-023-01416-7)
+
 H. **Maatouk**, X. **Bay** and D. **Rullière** (2022). A note on simulating hyperplane- truncated multivariate normal distributions, Accepted with minor revision, _Statistics and Probability Letters_, [pdf](https://www.sciencedirect.com/science/article/abs/pii/S0167715222001730)
+
 H. **Maatouk** (2021). Finite-dimensional approximation of Gaussian processes with inequality constraints and noisy observations, _Communications in Statistics - Theory and Methods_, [pdf](https://www.tandfonline.com/doi/abs/10.1080/03610926.2022.2055768)
 H. **Maatouk** and X. **Bay** (2017). Gaussian process emulators for computer expe- riments with inequality constraints, _Mathematical Geosciences_ Vol. 49, Number 5, pp. 557-582
 X. **Bay**, L. **Grammont** and H. **Maatouk** (2017). A new method for interpolating in a convex subset of a Hilbert space, _Computational Optimization and Applications_
