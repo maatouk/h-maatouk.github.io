@@ -8,9 +8,7 @@ I am interested in highly efficient approaches for sampling high-dimensional Gau
 
 # Publications
 
-All my articles are available on the following address :
-
-[Hassan Maatouk Goggle scholar](https://scholar.google.com/citations?user=rI7pyW0AAAAJ&hl=fr&oi=ao)
+My Google scholar [profile](https://scholar.google.com/citations?user=rI7pyW0AAAAJ&hl=fr&oi=ao).
 
 
 
