@@ -10,6 +10,8 @@ I am interested in highly efficient approaches for sampling high-dimensional Gau
 
 My Google scholar [profile](https://scholar.google.com/citations?user=rI7pyW0AAAAJ&hl=fr&oi=ao).
 
+**Contact**: maatouk underscore hassan at hotmail dot fr 
+
 
 
 # <font color="blue">Thesis</font>
