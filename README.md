@@ -22,6 +22,7 @@ H. **Maatouk**, D. **Rullière** and X. **Bay** (2024). Efficient constrained Ga
 Submitted to _Journal of Computational and Graphical Statistics_, [preprint](https://hal.science/hal-04496474)
 
 H. **Maatouk**, D. **Rullière** and X. **Bay** (2023). Large-scale constrained Gaussian processes for shape-restricted function estimation. Under review in _Statistics and Computing_, [preprint](https://hal.science/hal-04348962)
+
 ZnO nanoparticles size effect on their antibacterial activity against Gram- positive and Gram-negative bacteria, Collaboration with R. Azouani (EBI, Cergy) and I. El-Habib (LSPM, CNRS), Submitted
 
 # Published journal articles 
