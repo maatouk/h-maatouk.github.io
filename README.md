@@ -6,7 +6,7 @@ Assistant professor at EBI (Cergy)
 
 I am deeply involved in studying non-parametric function estimation using advanced machine learning and Bayesian techniques. 
 
-I am interested in highly efficient approaches for sampling high-dimensional Gaussian vectors restricted to linear and nonlinear constraints.
+I am also deeply involved and interested in advanced simulation techniques for simulating high-dimensional truncated Gaussian vectors under both linear and nonlinear constraints using Monte Carlo methods.
 
 # Publications
 
