@@ -2,6 +2,8 @@
 
 PhD in applied mathematics (Statistics)
 
+Assistant professor at EBI (Cergy)
+
 I am deeply involved in studying non-parametric function estimation using advanced machine learning and Bayesian techniques. 
 
 I am interested in highly efficient approaches for sampling high-dimensional Gaussian vectors restricted to linear and nonlinear constraints.
